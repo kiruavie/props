@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background: skyblue;
+}
+
+button {
+    background: rgb(220, 140, 140);
+    cursor: pointer;
+}
